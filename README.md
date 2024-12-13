@@ -1,4 +1,4 @@
-https://github.com/Samguri/posmotri_v_okno
+https://github.com/Samguri/posmotri_v_okno-fd
 
 # Яндекс Практикум, проектная работа "Посмотри В Окно"
 
