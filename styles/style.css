@@ -74,6 +74,7 @@ video {
   display: flex;
   justify-content: space-between;
   gap: 40px;
+  text-decoration: none;
 }
 
 .result__video {
@@ -111,7 +112,7 @@ video {
 }
 
 .search-form__label:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .search-form__label:has(:focus-visible) {
@@ -248,7 +249,7 @@ video {
   overflow-y: scroll;
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 10px;
   height: 298px;
 }
 
@@ -304,7 +305,7 @@ video {
   white-space: nowrap;
   overflow: hidden;
   max-width: 192px;
-  padding: 10px 2px 5px;
+  padding: 0px 2px 5px;
   color: #FFF;
   font-family: Oswald, sans-serif;
   font-weight: 700;
