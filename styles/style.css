@@ -108,10 +108,10 @@ video {
 }
 
 .search-form__label-text {
-  text-underline-offset: 20px;
+  text-underline-offset: 5px;
 }
 
-.search-form__label:hover {
+.search-form__label:hover .search-form__label-text {
   text-decoration: underline;
 }
 
@@ -305,7 +305,7 @@ video {
   white-space: nowrap;
   overflow: hidden;
   max-width: 192px;
-  padding: 0px 2px 5px;
+  padding: 2px 2px 5px;
   color: #FFF;
   font-family: Oswald, sans-serif;
   font-weight: 700;
